@@ -3,6 +3,7 @@
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinparasuram&langs_count=8)](https://github.com/ashwiparasuram/github-readme-stats)
 
 ### Languages:
 
