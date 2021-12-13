@@ -1,6 +1,6 @@
-<img align="left" alt="Ashwin Parasuram's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ashwinparasuram&count_private=true&show_icons=true&theme=onedark" /> 
+| <a href="https://github.com/ashwinparasuram/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ashwinparasuram&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ashwin Parasuram's github stats" /></a> | <a href="https://github.com/ashwinparasuram/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinparasuram&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinparasuram&langs_count=8)](https://github.com/ashwiparasuram/github-readme-stats)
 
 ---
 
