@@ -5,6 +5,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinparasuram&langs_count=8)](https://github.com/ashwiparasuram/github-readme-stats)
 
+---
+
 ### Languages:
 
 <img align="left" alt="Lua" width="26px" src="https://avatars.githubusercontent.com/u/2319114?s=200&v=4" />
