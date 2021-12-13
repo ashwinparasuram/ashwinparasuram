@@ -1,6 +1,4 @@
-<img align="left" alt="Ashwin Parasuram's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ashwinparasuram&count_private=true&show_icons=true&theme=onedark" />
-
-__
+<img align="left" alt="Ashwin Parasuram's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ashwinparasuram&count_private=true&show_icons=true&theme=onedark" /> \
 
 ---
 
