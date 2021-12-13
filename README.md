@@ -1,8 +1,5 @@
 <img align="left" alt="Ashwin Parasuram's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ashwinparasuram&count_private=true&show_icons=true&theme=onedark" /> 
 
-
----
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinparasuram&langs_count=8)](https://github.com/ashwiparasuram/github-readme-stats)
 
 ---
