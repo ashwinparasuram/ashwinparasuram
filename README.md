@@ -2,15 +2,6 @@
 
 
 
-
-
-
-
-
-
-
----
-
 ### Languages:
 
 <img align="left" alt="Lua" width="26px" src="https://avatars.githubusercontent.com/u/2319114?s=200&v=4" />
